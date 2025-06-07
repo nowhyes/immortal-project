@@ -111,9 +111,9 @@ class TunnelWin {
     rect(0, 10, doorW, doorH);  // y좌표 10으로 살짝 올려서 자연스럽게 보정
     pop();
 
-    stroke(150);
+    stroke(0);
     strokeWeight(2);
-    fill(255);
+    fill(0);
     textSize(25);
     textFont(font2);
     
